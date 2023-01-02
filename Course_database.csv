@@ -1,0 +1,3 @@
+course_id,course_name,marks_obtained
+C001,Physics,"{""CSBS2201"":95,""CSBS2101"":72}"
+C002,Python,"{""CSBS2201"":65,""CSBS2101"":72}"
